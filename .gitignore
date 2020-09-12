@@ -1,6 +1,5 @@
 Debug
 ipch
 .vs
-*.sln
 *.db
 *.opendb
